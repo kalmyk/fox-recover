@@ -1,0 +1,33 @@
+{
+  "name": "fox-recover",
+  "version": "0.1.1",
+  "description": "MySQL recover",
+  "author": {
+    "name": "Anatoly Tsapkov",
+    "email": "anatoly.tsapkov@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalmyk/fox-recover.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "wamp",
+    "mqtt",
+    "message",
+    "mq",
+    "broker",
+    "router",
+    "mysql"
+  ],
+  "dependencies": {
+    "autobahn": "*",
+    "commander": "*",
+    "mysql": "^2.16.0",
+    "zongji": "*"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
