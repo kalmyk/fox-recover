@@ -7,7 +7,9 @@ This project is aimed to synchronize local database with remote storage through 
 ## Replicate
 Catch MySQL bin log and transfer it through Web Queue Server
 
+## Message Broker
+Fox-WAMP Router
+
 ## Recover
 Apply received messages to the local MySQL database.
-
 
