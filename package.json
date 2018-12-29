@@ -21,10 +21,9 @@
     "mysql"
   ],
   "dependencies": {
-    "autobahn": "*",
-    "commander": "*",
+    "autobahn": "^18.10.2",
     "mysql": "^2.16.0",
-    "zongji": "*"
+    "zongji": "^0.4.7"
   },
   "devDependencies": {},
   "engines": {
