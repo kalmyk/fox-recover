@@ -11,8 +11,7 @@ flexibility to have required tables synchronized.
 Catch MySQL bin log and transfer it through Web Queue Server
 
 ## Message Broker
-Fox-WAMP Router
+Fox-WAMP Web Application Message Server provides functionality to trasform messages
 
 ## Recover
 Apply received messages to the local MySQL database.
-
